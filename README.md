@@ -3,7 +3,7 @@
 Vital Skills Summer Internship Program 2024
 In association with Techkriti, Indian Institute of Technology Kanpur
 
-#📌Project Description
+###📌Project Description
 The Student Management System is a console-based Java application that allows users to perform basic CRUD (Create, Read, Update, Delete) operations on student records. Developed as part of an internship program, this project focuses on object-oriented programming principles and basic data handling.
 
 ##🛠️ Technologies Used
