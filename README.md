@@ -1,4 +1,4 @@
-# Vital_Skills-Java_Internship
+# Vital Skills - Java Internship
 # 🎓 Student Management System
 Vital Skills Summer Internship Program 2024
 In association with Techkriti, Indian Institute of Technology Kanpur
