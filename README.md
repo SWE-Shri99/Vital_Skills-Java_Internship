@@ -1,4 +1,4 @@
-# Vital_Skills-Java_Internship
+### Vital_Skills-Java_Internship
 
 🎓 Student Management System
 Vital Skills Summer Internship Program 2024
